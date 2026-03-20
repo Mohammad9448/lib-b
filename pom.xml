@@ -40,7 +40,7 @@
     <dependencies>
         
         <dependency>
-            <groupId>io.github.mohammad9448.pipeline.test</groupId>
+            <groupId>io.github.mohammad9448</groupId>
             <artifactId>lib-a</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
