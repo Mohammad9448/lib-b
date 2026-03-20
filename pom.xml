@@ -1,13 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.mohammad9448</groupId>
     <artifactId>lib-b</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <name>lib-b</name>
     <description>Minimal test library lib-b</description>
@@ -31,7 +28,8 @@
     <connection>scm:git:https://github.com/mohammad9448/lib-b.git</connection>
     <developerConnection>scm:git:https://github.com/mohammad9448/lib-b.git</developerConnection>
     <url>https://github.com/mohammad9448/lib-b</url>
-</scm>
+  <tag>HEAD</tag>
+  </scm>
      <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
@@ -42,7 +40,7 @@
         <dependency>
             <groupId>io.github.mohammad9448</groupId>
             <artifactId>lib-a</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         
     </dependencies>
