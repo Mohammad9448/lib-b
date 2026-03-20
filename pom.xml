@@ -4,7 +4,7 @@
 
     <groupId>io.github.mohammad9448</groupId>
     <artifactId>lib-b</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
 
     <name>lib-b</name>
     <description>Minimal test library lib-b</description>
@@ -28,7 +28,7 @@
     <connection>scm:git:https://github.com/mohammad9448/lib-b.git</connection>
     <developerConnection>scm:git:https://github.com/mohammad9448/lib-b.git</developerConnection>
     <url>https://github.com/mohammad9448/lib-b</url>
-  <tag>HEAD</tag>
+  <tag>lib-b-0.0.4</tag>
   </scm>
      <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
