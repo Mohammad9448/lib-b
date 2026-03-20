@@ -5,13 +5,13 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.Mohammad9448</groupId>
+    <groupId>io.github.mohammad9448</groupId>
     <artifactId>lib-b</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>lib-b</name>
     <description>Minimal test library lib-b</description>
-    <url>https://github.com/Mohammad9448/lib-b</url>
+    <url>https://github.com/mohammad9448/lib-b</url>
 
     <licenses>
         <license>
@@ -22,15 +22,15 @@
 
     <developers>
         <developer>
-            <id>Mohammad9448</id>
+            <id>mohammad9448</id>
             <name>Mohammad Saker</name>
         </developer>
     </developers>
 
  <scm>
-    <connection>scm:git:https://github.com/Mohammad9448/lib-b.git</connection>
-    <developerConnection>scm:git:https://github.com/Mohammad9448/lib-b.git</developerConnection>
-    <url>https://github.com/Mohammad9448/lib-b</url>
+    <connection>scm:git:https://github.com/mohammad9448/lib-b.git</connection>
+    <developerConnection>scm:git:https://github.com/mohammad9448/lib-b.git</developerConnection>
+    <url>https://github.com/mohammad9448/lib-b</url>
 </scm>
      <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,7 +40,7 @@
     <dependencies>
         
         <dependency>
-            <groupId>io.github.Mohammad9448.pipeline.test</groupId>
+            <groupId>io.github.mohammad9448.pipeline.test</groupId>
             <artifactId>lib-a</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
